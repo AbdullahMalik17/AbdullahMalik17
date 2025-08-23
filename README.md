@@ -7,6 +7,7 @@ I'm a passionate software developer specializing in Python, JavaScript, and Type
 - HTML , CSS 
 - Python, JavaScript , TypeScript 
 -  GitHub Actions
+-  Openai SDK 
 - CI/CD, Git,
 
 ## 🗂️ Languages Used
