@@ -1,24 +1,55 @@
-# Hi there, I'm Abdullah Malik 👋
+
+# 👋 Hi, I'm Abdullah Malik
+
+**Passionate Software Developer | AI Enthusiast | Open Source Contributor**
+
+---
 
 ## 🚀 About Me
-I'm a passionate software developer specializing in Python, JavaScript, and TypeScript .I have expertise in Openai SDK . I love open source and building scalable applications in AI.
+
+I'm a dedicated software developer with expertise in **Python**, **JavaScript**, **TypeScript**, and the **OpenAI SDK**. I thrive in open source projects and love building scalable AI-driven applications. My goal is to use technology to solve meaningful problems and collaborate with global talent.
+
+---
 
 ## 🛠️ Skills & Technologies
-- HTML , CSS 
-- Python, JavaScript , TypeScript 
--  GitHub Actions
--  Openai SDK 
-- CI/CD, Git,
 
-## 🗂️ Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMalik17&layout=compact)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![OpenAI](https://img.shields.io/badge/-OpenAI-23213c?style=flat-square&logo=openai)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+![CI/CD](https://img.shields.io/badge/-CI/CD-informational?style=flat-square)
+
+---
+
+## 🌐 Featured Projects
+
+| Project Name          | Description                              | Link                                                         |
+|-----------------------|------------------------------------------|--------------------------------------------------------------|
+| **AI Chatbot**        | Conversational agent powered by OpenAI    | [Repo](https://github.com/AbdullahMalik17/)        
+---
+
+## 📈 GitHub Stats
+
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMalik17&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMalik17&layout=compact&theme=radical)
+
+---
+
 
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/muhammad-abdullah-athar)
-- [Email](mailto:muhammadabdullah51700@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/muhammad-abdullah-athar)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:muhammadabdullah51700@gmail.com)
 
 ---
+
+> _“Building the future, one line of code at a time.”_
+
+
 
 <!--
 **AbdullahMalik17/AbdullahMalik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
