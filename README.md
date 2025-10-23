@@ -7,12 +7,14 @@
 
 ## 🚀 About Me
 
-"Software Developer specializing in **AI-driven applications** and **Automation**. Proficient in Python, JavaScript, TypeScript, and OpenAI SDK, with experience building scalable chatbots and workflows using n8n. Passionate about open source and solving real-world problems through code.
+"Software Developer specializing in **AI-driven applications** and **Automation**. Proficient in Python, JavaScript, TypeScript, and OpenAI SDK, with experience building scalable chatbots and workflows using n8n. Passionate about open source and solving real-world problems through code. 
 
 ---
 
 ## 🛠️ Skills & Technologies
-
+- **Languages**: Python, JavaScript, TypeScript, HTML5, CSS3
+- **Tools/Frameworks**: OpenAI SDK, n8n, GitHub Actions, CI/CD
+- **Domains**: Agentic AI, Chatbots, Workflow Automation, Web Development<br>
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
