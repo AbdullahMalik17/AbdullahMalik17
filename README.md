@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated software developer with expertise in **Python**, **JavaScript**, **TypeScript**, and the **OpenAI SDK**. I thrive in open source projects and love building scalable AI-driven applications. My goal is to use technology to solve meaningful problems and collaborate with global talent.
+"Software Developer specializing in **AI-driven applications** and **Automation**. Proficient in Python, JavaScript, TypeScript, and OpenAI SDK, with experience building scalable chatbots and workflows using n8n. Passionate about open source and solving real-world problems through code.
 
 ---
 
