@@ -13,7 +13,7 @@
 
 ## 🛠️ Skills & Technologies
 - **Languages**: Python, JavaScript, TypeScript, HTML5, CSS3
-- **Tools/Frameworks**: OpenAI SDK, n8n, GitHub Actions, CI/CD
+- **Tools/Frameworks**: OpenAI Agent SDK, OpenAI Agent Kit ,n8n, GitHub Actions, CI/CD , Claude Code , Cursor 
 - **Domains**: Agentic AI, Chatbots, Workflow Automation, Web Development<br>
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
