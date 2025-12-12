@@ -30,7 +30,7 @@
 
 | Project Name          | Description                              | Link                                                         |
 |-----------------------|------------------------------------------|--------------------------------------------------------------|
-| **AI Chatbot**        | Conversational agent powered by OpenAI    | [Repo](https://github.com/AbdullahMalik17/)        
+| **AI Chatbot**        | Conversational agent powered by OpenAI    | [Repo](https://portfolio-ai-assistant-of-malik-five.vercel.app/)        
 ---
 
 ## 📈 GitHub Stats
