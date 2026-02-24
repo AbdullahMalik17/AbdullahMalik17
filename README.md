@@ -1,69 +1,91 @@
-
 # 👋 Hi, I'm Abdullah Malik
 
-**Passionate Software Developer | AI Enthusiast | Open Source Contributor**
+**Full-Stack Developer & Agentic AI Specialist**
+
+I build intelligent, production-focused applications that combine modern web engineering with autonomous AI systems.
+
+🔗 **Portfolio:** [portfolio-ai-assistant-of-malik.vercel.app](https://portfolio-ai-assistant-of-malik.vercel.app/)
 
 ---
 
 ## 🚀 About Me
 
-"Software Developer specializing in **AI-driven applications** and **Automation**. Proficient in Python, JavaScript, TypeScript, and OpenAI SDK, with experience building scalable chatbots and workflows using n8n. Passionate about open source and solving real-world problems through code. 
+I started my coding journey in 2023 and quickly moved from basic web projects to full-stack development with TypeScript and Next.js. Since 2024, I’ve focused deeply on **Agentic AI**, building advanced systems with OpenAI SDKs, Python, and workflow automation tools.
+
+Today, I’m expanding toward **enterprise-grade AI systems** with cloud-native practices (Docker/Kubernetes), scalable architecture, and high-quality developer workflows.
+
+> _"Building the future of AI, one line of code at a time."_
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Languages**: Python, JavaScript, TypeScript, HTML5, CSS3
-- **Tools/Frameworks**: OpenAI Agent SDK, OpenAI Agent Kit ,n8n, GitHub Actions, CI/CD , Claude Code , Cursor 
-- **Domains**: Agentic AI, Chatbots, Workflow Automation, Web Development<br>
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![OpenAI](https://img.shields.io/badge/-OpenAI-23213c?style=flat-square&logo=openai)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![CI/CD](https://img.shields.io/badge/-CI/CD-informational?style=flat-square)
+## 🧠 What I Specialize In
+
+- **Agentic AI Systems** (autonomous workflows, multi-tool agents, digital employee concepts)
+- **AI-Powered Products** (chatbots, dashboards, copilots, customer support automation)
+- **Full-Stack Development** (Next.js, React, TypeScript, Python APIs)
+- **Workflow Automation** (n8n and tool-integrated AI pipelines)
+- **Developer Productivity & Quality** (clean architecture, maintainable code, rapid iteration)
 
 ---
 
-## 🌐 Featured Projects
+## 🛠️ Tech Stack
 
-| Project Name          | Description                              | Link                                                         |
-|-----------------------|------------------------------------------|--------------------------------------------------------------|
-| **AI Chatbot**        | Conversational agent powered by OpenAI    | [Repo](https://portfolio-ai-assistant-of-malik-five.vercel.app/)        
+### Languages
+Python • TypeScript • JavaScript • HTML5 • CSS3
+
+### Frontend
+React • Next.js • Tailwind CSS
+
+### Backend
+FastAPI • Node.js • PostgreSQL • Supabase
+
+### AI / Automation
+OpenAI Agent SDK • OpenAI Agent Kit • Langfuse • n8n • MCP Servers • Chainlit
+
+### Tools
+Git • Docker • VS Code • Cursor • Claude Code • Gemini CLI • Figma
+
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Work
+
+### 🤖 Digital FTE – Abdullah Junior
+A high-autonomy AI agent designed as a 24/7 digital employee for personal and business task management.
+
+### 💬 Customer Success Digital FTE
+An AI-powered support agent for Email, WhatsApp, and Web channels with smart routing and escalation.
+
+### 🎙️ Voice Assistant Agent
+A privacy-first voice assistant with wake-word detection, memory, and autonomous local actions.
+
+### 💻 AI Code Assistant
+A multi-model coding assistant for generating, debugging, and optimizing code.
+
+### 🌐 Portfolio Website
+A modern, responsive developer portfolio built with Next.js + TypeScript + Tailwind.
+
+➡️ See all projects on my portfolio:  
+[**View Projects**](https://portfolio-ai-assistant-of-malik.vercel.app/#projects)
+
+---
+
+## 📊 GitHub Stats
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMalik17&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMalik17&layout=compact&theme=radical)
 
 ---
 
+## 📫 Connect With Me
 
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/muhammad-abdullah-athar)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:muhammadabdullah51700@gmail.com)
+- **LinkedIn:** [muhammad-abdullah-athar](https://www.linkedin.com/in/muhammad-abdullah-athar)
+- **Email:** [muhammadabdullah51700@gmail.com](mailto:muhammadabdullah51700@gmail.com)
+- **Portfolio:** [portfolio-ai-assistant-of-malik.vercel.app](https://portfolio-ai-assistant-of-malik.vercel.app/)
 
 ---
 
-> _“Building the future, one line of code at a time.”_
+## 🔍 Current Focus
 
-
-
-<!--
-**AbdullahMalik17/AbdullahMalik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building enterprise-ready AI agents
+- Deepening cloud-native AI deployment skills
+- Contributing to open-source AI tooling
