@@ -2,7 +2,7 @@
 
 [![A2AS Certified](https://img.shields.io/badge/A2AS-Certified-brightgreen)](https://a2as.org/certified/agents/abdullahmalik17/deep-research-agent)
 
-**Full-Stack Developer & Agentic AI Specialist**
+**AI Automation Engineer & Agentic AI Specialist**
 
 I build intelligent, production-focused applications that combine modern web engineering with autonomous AI systems.
 
